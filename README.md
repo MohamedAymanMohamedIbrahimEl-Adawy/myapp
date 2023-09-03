@@ -17,9 +17,13 @@ hahahah
 3
 4
 <<<<<<< HEAD
+<<<<<<< HEAD
 5
 6
 7
+=======
+5
+>>>>>>> parent of 62f6b6b (6 commit)
 =======
 5
 >>>>>>> parent of 62f6b6b (6 commit)
