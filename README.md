@@ -16,6 +16,10 @@ hahahah
 2
 3
 4
+<<<<<<< HEAD
 5
 6
 7
+=======
+5
+>>>>>>> parent of 62f6b6b (6 commit)
